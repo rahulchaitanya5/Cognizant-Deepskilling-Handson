@@ -70,6 +70,6 @@ public class Ecommerce_search{
             default:
                 break;
         }
-
+        sc.close();
     }
 }
