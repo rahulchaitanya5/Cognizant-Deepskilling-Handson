@@ -1,7 +1,5 @@
 # Cognizant Java FSE Skill - Hands-on Solutions
 
-This repository contains my solutions and hands-on exercises completed as part of the **Cognizant Java Full Stack Engineer (FSE) Skill Training** program.
-
 ## Candidate Details
 
 - **Name:** Pilla Rahul Chaitanya
