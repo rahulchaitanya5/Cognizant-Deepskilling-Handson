@@ -53,5 +53,3 @@
 | Microservices | Account & Loan Microservices |
 
 ---
-
-> Hands-ons will be added in this repository after completion.
