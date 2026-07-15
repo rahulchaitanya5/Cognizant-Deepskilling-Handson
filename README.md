@@ -54,6 +54,4 @@
 
 ---
 
-### Week 7 - DevOps, Docker, Cloud & GenAI Fundamentals
-
 > Hands-ons will be added in this repository after completion.
