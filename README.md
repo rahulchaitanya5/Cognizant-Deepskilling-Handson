@@ -53,3 +53,18 @@
 | Microservices | Account & Loan Microservices |
 
 ---
+
+### Week 5 - ReactJS Hands-on
+
+| Folder | Topic |
+|--------|-------|
+| React/ReactJS-HOL1 | First React Application |
+| React/ReactJS-HOL2 | Student Management Portal |
+| React/ReactJS-HOL3 | Score Calculator using Components |
+| React/ReactJS-HOL4 | React Lifecycle Methods |
+| React/ReactJS-HOL5 | CSS Modules & Cohorts Tracker |
+| React/ReactJS-HOL6 | ES6 Features in React |
+| React/ReactJS-HOL7 | Office Space Rental Application |
+| React/ReactJS-HOL8 | Event Handling in React |
+| React/ReactJS-HOL9 | Conditional Rendering & Ticket Booking |
+| React/ReactJS-HOL10 | Blogger Application |
