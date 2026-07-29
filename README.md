@@ -68,3 +68,15 @@
 | React/ReactJS-HOL8 | Event Handling in React |
 | React/ReactJS-HOL9 | Conditional Rendering & Ticket Booking |
 | React/ReactJS-HOL10 | Blogger Application |
+
+---
+
+### Week 6 - Git Hands-on
+
+| Folder | Topic |
+|--------|-------|
+| Git/Git-HOL1 | Git Installation, Configuration & Basic Repository Operations |
+| Git/Git-HOL2 | Working with `.gitignore` to Ignore Files and Folders |
+| Git/Git-HOL3 | Branch Creation, Branch Switching, Merging & Commit History |
+| Git/Git-HOL4 | Merge Conflict Detection and Resolution |
+| Git/Git-HOL5 | Repository Cleanup, Synchronization and Remote Push |
